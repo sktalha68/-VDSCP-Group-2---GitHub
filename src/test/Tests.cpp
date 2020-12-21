@@ -3,5 +3,14 @@
 //
 
 #include "Tests.h"
+#include "gtest/gtest.h"
+#include "../Manager.h"
+#include "../Manager.cpp"
 
-//asdasd
+using namespace ClassProject ;
+namespace {
+    TEST(xyz,x){
+        Manager abc = Manager ();
+    }
+}
+
