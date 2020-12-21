@@ -11,6 +11,6 @@
 int main(int argc, char* argv[])
 {
 
-    std::cout << "Nothing implemented, yet" << std::endl;
+    std::cout << "welcome to the project" << std::endl;
 }
 
